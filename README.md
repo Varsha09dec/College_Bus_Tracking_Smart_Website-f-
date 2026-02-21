@@ -138,6 +138,44 @@ Login Page for Website:
 This screenshot displays the Login page of the website for both students and drivers
 
 Leave and Delay page:
+<img width="1366" height="583" alt="Leave" src="https://github.com/user-attachments/assets/0e7bd51f-fa44-4306-8562-0c8ff1b04060" />
+This screenshot displays the leave page for students in student portal
+
+<img width="1364" height="618" alt="image" src="https://github.com/user-attachments/assets/34c45b48-880f-4c69-b6b0-48cbb9cf4e05" />
+This screenshot displays the Delay page for students in student portal
+
+Driver Notification Page :
+
+<img width="1366" height="616" alt="image" src="https://github.com/user-attachments/assets/1f7d3b6d-3416-4e6f-80a8-2ba47692f906" />
+This screenshot displays the notification page where driver can observe the delay of students 
+
+Evening Dispatch Time Information:
+
+<img width="1359" height="647" alt="image" src="https://github.com/user-attachments/assets/f3d0c8f6-3b9e-48f9-8872-f548ddc6ae61" />
+This screenshot displays the Evening Dispatch Time where drivers can inform the students about Evening Dispatch time from college
+
+Diagrams :
+
+workflow Diagram :
+
+<img width="1042" height="587" alt="image" src="https://github.com/user-attachments/assets/01d84788-5a0e-461c-aa7f-49d2bff6f9d3" />
+This is the smart worklow diagram of our website 
+
+AI used :
+
+Chat gpt
+Claude AI for coding
+
+Video Of Website Running :
+
+https://drive.google.com/file/d/1JAZd7drLszZcMS4NnPK1r-b0GvlFoxDd/view?usp=drivesdk
+
+Thank You
+
+
+
+
+
 
 
 
