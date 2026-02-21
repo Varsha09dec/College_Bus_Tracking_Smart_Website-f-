@@ -93,7 +93,7 @@ No additional installation required.
 
 Simply clone the repository:
 
-git clone https://github.com/Varsha09dec/College_Bus_Tracking_Smart_Website-f.git
+git  https://varsha09dec.github.io/College_Bus_Tracking_Smart_Website-f-/
 Run
 
 Open the project folder.
