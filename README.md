@@ -124,4 +124,23 @@ Screenshots
 
 Student Portal:
 
+<img width="1344" height="648" alt="image" src="https://github.com/user-attachments/assets/1ceb2687-8bbb-445a-a540-1d8d0f0f819a" />
+This screenshot displays the student portal tracking live location 
+
+Driver portal:
+
+<img width="1350" height="643" alt="image" src="https://github.com/user-attachments/assets/df6ed438-0815-40d8-89e6-270b47ad1e25" />
+This screenshot displays the driver portal of the website
+
+Login Page for Website:
+
+<img width="1272" height="621" alt="image" src="https://github.com/user-attachments/assets/8a5292bb-f78c-4dcf-8740-ae3fc7d621c4" />
+This screenshot displays the Login page of the website for both students and drivers
+
+Leave and Delay page:
+
+
+
+
+
             
